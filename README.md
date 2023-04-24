@@ -1,1 +1,1 @@
-# blang
+# The B Programming Language
